@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<winginx>
+  <project>
+    <name>deadfonki.com</name>
+    <url>http://deadfonki.com/</url>
+    <root>home/deadfonki.com</root>
+  </project>
+</winginx>
